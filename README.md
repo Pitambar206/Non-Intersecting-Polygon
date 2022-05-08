@@ -1,5 +1,6 @@
 ## Non-Intersecting-Polygon
-#Algorithm:
+## Algorithm:
+
 Find the leftmost points p
 Find the rightmost point q
 Partition the points into A, the set of points below pq, and B, the set of points above pq [you can use the left turn test on (p,q,?) to determine if a point is above the line].
